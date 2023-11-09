@@ -3,13 +3,14 @@
 ### 克隆
 
 ```
-
+git clone git@github.com:wwhtml/vite-vue-ts-element-plus-demo.git
 ```
 
 ### 安装依赖
 
 ```
-
+cd vite-vue-ts-element-plus-demo
+npm install
 ```
 
 ### 启动项目
